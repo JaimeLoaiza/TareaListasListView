@@ -1,0 +1,9 @@
+C:\Users\Familia Loaiza\source\repos\Proyecto-AnimalesNocturnos\bin\Debug\Proyecto-AnimalesNocturnos.exe.config
+C:\Users\Familia Loaiza\source\repos\Proyecto-AnimalesNocturnos\bin\Debug\Proyecto-AnimalesNocturnos.exe
+C:\Users\Familia Loaiza\source\repos\Proyecto-AnimalesNocturnos\bin\Debug\Proyecto-AnimalesNocturnos.pdb
+C:\Users\Familia Loaiza\source\repos\Proyecto-AnimalesNocturnos\obj\Debug\Proyecto-AnimalesNocturnos.csprojAssemblyReference.cache
+C:\Users\Familia Loaiza\source\repos\Proyecto-AnimalesNocturnos\obj\Debug\Proyecto_AnimalesNocturnos.Form1.resources
+C:\Users\Familia Loaiza\source\repos\Proyecto-AnimalesNocturnos\obj\Debug\Proyecto_AnimalesNocturnos.Properties.Resources.resources
+C:\Users\Familia Loaiza\source\repos\Proyecto-AnimalesNocturnos\obj\Debug\Proyecto-AnimalesNocturnos.csproj.GenerateResource.cache
+C:\Users\Familia Loaiza\source\repos\Proyecto-AnimalesNocturnos\obj\Debug\Proyecto-AnimalesNocturnos.exe
+C:\Users\Familia Loaiza\source\repos\Proyecto-AnimalesNocturnos\obj\Debug\Proyecto-AnimalesNocturnos.pdb
